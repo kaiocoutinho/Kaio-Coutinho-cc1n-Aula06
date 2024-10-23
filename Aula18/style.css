@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to right, rgb(101, 101, 233), rgb(45, 45, 214), rgb(0, 0, 248));
+    
+    
+}
+
+main{
+    width: 40%;
+    margin: auto;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 2px 5px 10px black;
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1{
+    text-align: center;
+    text-shadow: 5px 5px 20px black;
+}
+h2{
+    color: rgb(55, 55, 223);
+}
+p{
+    text-align: justify;
+}
